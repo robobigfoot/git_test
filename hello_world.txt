@@ -1,3 +1,6 @@
 This is the start of the hello world text document.
 
 :)
+
+Third part starts here:
+    Hi
